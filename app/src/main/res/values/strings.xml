@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practice15</string>
+    <string name="btn_bold">Ж</string>
+    <string name="btn_italic">К</string>
+    <string name="btn_bigger">A+</string>
+    <string name="btn_smaller">A-</string>
+    <string name="hint_note">Введите текст заметки…</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="btn_open">Открыть</string>
+    <string name="btn_clear">Очистить</string>
+</resources>
